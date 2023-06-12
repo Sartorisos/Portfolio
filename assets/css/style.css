@@ -204,7 +204,7 @@ main {
 .video {
     width: 60vw;
     aspect-ratio: 16/9;
-    margin: 0 auto;
+    margin: 0 auto  ;
     display: block;
     border-radius: 8px;
     margin-top: 2rem;
